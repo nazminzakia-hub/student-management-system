@@ -1,2 +1,2 @@
-# student-management-system
+# LIBRARY-management-system
 ds project in c++
